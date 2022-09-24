@@ -1,5 +1,5 @@
 mod guessing_game;
-
+mod parent;
 use std::io;// bring the io library into scope
 use rand::Rng;
 use std::cmp::Ordering;
