@@ -12,4 +12,7 @@ rand = "0.8.3"
 members = [
     "minigrep",
     "closure",
+    "dota2_watcher",
+    "state_pattern_oop",
+    "state_pattern_rust",
 ]
