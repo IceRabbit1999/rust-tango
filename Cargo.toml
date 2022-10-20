@@ -15,4 +15,5 @@ members = [
     "dota2_watcher",
     "state_pattern_oop",
     "state_pattern_rust",
+    "web_server",
 ]
